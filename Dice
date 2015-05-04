@@ -5,6 +5,7 @@ public class Dice
 	private int diceValue;
 	private int count;
 	private int oldDiceValue;
+//Please add a Constructor or two, Thuc.
 	
 	public int Throw()
 	{
